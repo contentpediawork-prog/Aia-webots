@@ -1,0 +1,5 @@
+# Tells webots.cloud this is an interactive simulation (not a benchmark/
+# animation), and that it's ok to publish/run.
+publish: true
+type: demo
+world: worlds/aria_world.wbt
