@@ -1,0 +1,7 @@
+# NOTE: this filename must be exactly "webots.yaml" (not .yml) for the
+# GitHub Action / webots.cloud to find it.
+type: demo
+animation:
+  worlds:
+    - file: worlds/aria_world_demo.wbt
+      duration: 25
